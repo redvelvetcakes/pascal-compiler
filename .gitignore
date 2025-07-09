@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# Flex/Bison generated files
+lex.yy.c
